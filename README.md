@@ -1,5 +1,5 @@
 ##Dorset College
-##Computer Architecture 
+Computer Architecture 
 
 # César García  - Nº 17706
 
