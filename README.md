@@ -1,4 +1,3 @@
-# Dorset College  /  Computer Architecture 
 
 ## César García  - Nº 17706
 
