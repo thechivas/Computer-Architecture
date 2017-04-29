@@ -27,6 +27,7 @@ As soon as I achieved my goal with Virtual VM, we accessed GitHub.com to start g
 # Week 3 - (Apache Server Installation)
 Starting the week with the Apache Web Server installation, which is one of the most used servers worldwide, because of its higher characteristics such as speed, security and a completely free server. This can be customized according to the needs of the client.
 Apache has the function of evaluating requests for pages and resources made by users and managing their acceptance or denial according to established security policies.
+
 That said, we started our installation by checking any type of update that could be available and then installing the web server following the parameters given by the teacher. At the time of the search the server encountered the problem of logging in Virtual VM, the machine did not recognize the information that had been introduced in previous days, restarting the same and still presented the same problem. Almost over, I decided to restart the computer to enter the program again and in the third login attempt I was able to enter my Server.
 
 I deduced that it is possible to have been a mistake that was presented in the program on my computer at the moment of entering the characters.
